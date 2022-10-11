@@ -1,7 +1,26 @@
-# Backend-Development---MERN
-MERN Development . The Backend Development 
 
-<li> Mongo DB </li>
-<li> Express Js </li>
-<li> React Js </li>
-<li> Node Js </li>
+# MERN Development
+
+The Backend Frame Work. 
+- Mongo DB
+- Express Js
+- React Js
+- Node Js
+
+
+
+
+## Authors
+
+- [@nitin-pandita](https://www.github.com/nitin-pandita)
+
+
+# Hi, I'm Nitin  Pandita 👋
+
+
+## 🛠 Skills
+
+JavaScript , HTML, CSS, Node JS.
+
+
+
